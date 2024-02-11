@@ -48,45 +48,45 @@
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="30" alt="cplusplus logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="30" alt="microsoftsqlserver logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="materialui logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=codepen" height="30" alt="codepen logo"  />
 </div>
 
