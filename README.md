@@ -65,8 +65,6 @@
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
   <img width="2" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="30" alt="microsoftsqlserver logo"  />
-  <img width="2" />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
   <img width="2" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
